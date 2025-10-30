@@ -1,0 +1,152 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/vhosts/onlineconvert.com/onlineconvert.convertserver.com/run/t7l73mag9u7pv0kcsfp1glhf17/cGhlZnJmLndmYmE=_69039d47645cd.pdf",
+    "baseName": "cGhlZnJmLndmYmE=_69039d47645cd.pdf",
+    "permissions": 644,
+    "format": "PDF",
+    "formatDescription": "Portable Document Format",
+    "mimeType": "application/pdf",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 827,
+      "height": 1169,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 100,
+      "y": 100
+    },
+    "printSize": {
+      "x": 8.27,
+      "y": 11.69
+    },
+    "units": "Undefined",
+    "type": "Bilevel",
+    "baseType": "TrueColorAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 4,
+    "baseDepth": 16,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 1,
+      "green": 1,
+      "blue": 1
+    },
+    "pixels": 966763,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 65535,
+        "mean": 47794.7,
+        "median": 49151.2,
+        "standardDeviation": 11049.7,
+        "kurtosis": 27.46,
+        "skewness": -2.26454,
+        "entropy": 0.163323
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 0,
+        "max": 0,
+        "mean": 0,
+        "median": 0,
+        "standardDeviation": 0,
+        "kurtosis": 0,
+        "skewness": 0,
+        "entropy": -1.43588e+19
+      },
+      "red": {
+        "min": 0,
+        "max": 65535,
+        "mean": 63256.5,
+        "median": 65535,
+        "standardDeviation": 12005.4,
+        "kurtosis": 23.7984,
+        "skewness": -5.07921,
+        "entropy": 0.217764
+      },
+      "green": {
+        "min": 0,
+        "max": 65535,
+        "mean": 63256.5,
+        "median": 65535,
+        "standardDeviation": 12005.4,
+        "kurtosis": 23.7984,
+        "skewness": -5.07921,
+        "entropy": 0.217764
+      },
+      "blue": {
+        "min": 0,
+        "max": 65535,
+        "mean": 63256.5,
+        "median": 65535,
+        "standardDeviation": 12005.4,
+        "kurtosis": 23.7984,
+        "skewness": -5.07921,
+        "entropy": 0.217764
+      }
+    },
+    "alpha": "#FFFFFFFFFFFF0000",
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBDBDBDBD",
+    "backgroundColor": "#FFFFFFFFFFFF",
+    "borderColor": "#DFDFDFDFDFDF",
+    "transparentColor": "#000000000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 827,
+      "height": 1169,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2025-10-30T17:15:52+00:00",
+      "date:modify": "2025-10-30T17:15:52+00:00",
+      "date:timestamp": "2025-10-30T17:15:52+00:00",
+      "pdf:HiResBoundingBox": "595.304x841.89+0+0",
+      "pdf:Version": "PDF-1.7",
+      "signature": "8cafa9d1f728c56f6df35a47f56a4805ff784da0b4994b5c823cc99c547e68d7"
+    },
+    "profiles": {
+      "icc": {
+        "length": 2576
+      }
+    },
+    "tainted": false,
+    "filesize": "40306B",
+    "numberPixels": "966763",
+    "pixelsPerSecond": "38.9647MB",
+    "userTime": "0.030u",
+    "elapsedTime": "0:01.024",
+    "version": "ImageMagick 7.1.1-26 (Beta) Q16-HDRI x86_64 21900 https://imagemagick.org"
+  }
+}]
